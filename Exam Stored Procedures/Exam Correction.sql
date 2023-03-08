@@ -1,5 +1,5 @@
 -------------------------------------------Exam Correction-------------
-alter proc ExamCorrrection @st_id int ,@crs_code int, @dept_id int, @ex_code int
+create proc ExamCorrrection @st_id int ,@crs_code int, @dept_id int, @ex_code int
 as
 begin
 	begin try
