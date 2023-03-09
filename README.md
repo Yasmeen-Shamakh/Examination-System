@@ -12,5 +12,10 @@ o	Power BI (Dashboard) <br />
 ## Steps
 •	ERD& Mapping <br />
    ![My Image](ERD.png)
-•
+•	Database Creation <br />
+<img
+  src="Downloads/DB.png"
+  alt="Alt text"
+  title="Optional title"
+  style="display: inline-block; margin: 0 auto; max-width: 300px">
 •	
