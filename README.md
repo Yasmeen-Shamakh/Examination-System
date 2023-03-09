@@ -11,6 +11,6 @@ o	Power BI (Dashboard) <br />
 
 ## Steps
 •	ERD& Mapping <br />
-   ![My Image](ERD.jpg)
+   ![My Image](ERD.png)
 •
 •	
