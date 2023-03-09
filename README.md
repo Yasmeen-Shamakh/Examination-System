@@ -11,10 +11,6 @@ o	Power BI (Dashboard) <br />
 
 ## Steps
 •	ERD& Mapping <br />
-    <img
-  src="D:\BI_iTi\BI Project\ERD.jpg"
-  alt="Alt text"
-  title="Optional title"
-  style="display: inline-block; margin: 0 auto; max-width: 300px">
-•	Each Department is supervised by one instructor and has many courses.
-•	Each branch 
+   ![My Image](ERD.jpg)
+•
+•	
