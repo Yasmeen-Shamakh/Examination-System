@@ -10,8 +10,10 @@ o	SSRS (Reports) <br />
 o	Power BI (Dashboard) <br />
 
 ## Steps
-•	ERD& Mapping <br />
+•	ERD <br />
    ![My Image](ERD.png)
+•	Mapping <br />
+    ![My Image](Mapping.png)
 •	Database Creation <br />
 <img
   src="Downloads/DB.png"
