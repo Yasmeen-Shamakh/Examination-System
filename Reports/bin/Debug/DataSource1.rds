@@ -1,0 +1,10 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<RptDataSource xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" Name="DataSource1">
+  <ConnectionProperties>
+    <Extension>SQL</Extension>
+    <ConnectString>Data Source=CRIZMA-LAPTOP\AML;Initial Catalog=Test_Project</ConnectString>
+    <IntegratedSecurity>true</IntegratedSecurity>
+    <Prompt>Specify a user name and password for data source DataSource1</Prompt>
+  </ConnectionProperties>
+  <DataSourceID>203ba172-1533-4da8-bbe9-0cf50ba47a9f</DataSourceID>
+</RptDataSource>
