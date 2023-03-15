@@ -15,4 +15,4 @@ o	Power BI (Dashboard) <br />
 •	Mapping <br />
     ![My Image](Mapping.png)
 •	Database Creation <br />
-![My Image](D:\BI_iTi\BI Project\DB.png)
+
