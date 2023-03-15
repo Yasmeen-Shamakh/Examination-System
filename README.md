@@ -15,9 +15,5 @@ o	Power BI (Dashboard) <br />
 •	Mapping <br />
     ![My Image](Mapping.png)
 •	Database Creation <br />
-<img
-  src="Downloads/DB.png"
-  alt="Alt text"
-  title="Optional title"
-  style="display: inline-block; margin: 0 auto; max-width: 300px">
+![Alt text](D:\BI_iTi\BI Project\DB.png "Optional title")
 
