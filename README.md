@@ -14,6 +14,7 @@ o	Power BI (Dashboard) <br />
    ![My Image](ERD.png)
 •	Mapping <br />
 ![Picture1](https://user-images.githubusercontent.com/57462948/227789055-72ffd34b-8d82-4f66-9b9f-562ab10790f7.png)
+![j](https://user-images.githubusercontent.com/57462948/227789167-3e565937-9a6f-49ff-93fa-0a39f59c13fa.png)
 
     ![My Image](Mapping.png)
 •	Database Creation <br />
