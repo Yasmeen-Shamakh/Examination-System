@@ -1,5 +1,5 @@
 # Examination-System (ITI Graduation Project)
-Examination System is designed and developed for students and instructor. The system helps students to take online exam and know their evaluations.<br /> 
+Examination System is designed and developed for students and instructor. The system helps students to perform online exam and know their evaluations.<br /> 
 It also helps instructor to upload the questions and answers in the database, they can see the students who fail or pass the exam.
 
 ## Tools
