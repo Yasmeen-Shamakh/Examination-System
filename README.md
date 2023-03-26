@@ -11,12 +11,10 @@ o	Power BI (Dashboard) <br />
 
 ## Steps
 •	ERD <br />
-   ![مممم](https://user-images.githubusercontent.com/57462948/227804056-8d04944f-bbcc-4584-b15d-2634582a79b0.png)
-
+![ERD](https://user-images.githubusercontent.com/57462948/227804406-bbbc2d70-c929-48eb-9fa8-52ca26e90075.png)
 
 •	Mapping <br />
-![Picture1](https://user-images.githubusercontent.com/57462948/227789055-72ffd34b-8d82-4f66-9b9f-562ab10790f7.png)
-![j](https://user-images.githubusercontent.com/57462948/227789167-3e565937-9a6f-49ff-93fa-0a39f59c13fa.png)
+
 
     ![My Image](Mapping.png)
 •	Database Creation <br />
