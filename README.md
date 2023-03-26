@@ -11,7 +11,8 @@ o	Power BI (Dashboard) <br />
 
 ## Steps
 •	ERD <br />
-   ![My Image](ERD.png)
+   ![Picture4](https://user-images.githubusercontent.com/57462948/227803802-4e43e8d5-6b09-4cc6-84b9-d8a02e1fa6fa.png)
+
 •	Mapping <br />
 ![Picture1](https://user-images.githubusercontent.com/57462948/227789055-72ffd34b-8d82-4f66-9b9f-562ab10790f7.png)
 ![j](https://user-images.githubusercontent.com/57462948/227789167-3e565937-9a6f-49ff-93fa-0a39f59c13fa.png)
