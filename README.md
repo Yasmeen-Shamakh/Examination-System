@@ -16,7 +16,5 @@ o	Power BI (Dashboard) <br />
 •	Mapping <br />
 ![MAp](https://user-images.githubusercontent.com/57462948/227804526-4d47eb0a-0ef7-4ff2-8e85-c396796b8136.png)
 
-
-    ![My Image](Mapping.png)
 •	Database Creation <br />
 ![DB](https://user-images.githubusercontent.com/57462948/227788838-e0ae2988-cc78-4c2c-9d7e-03bf2da3db39.png)
