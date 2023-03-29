@@ -24,7 +24,7 @@ It also helps instructor to upload the questions and answers in the database, th
 
 •	Stored Procedures <br />
 o	Main Procedures <br />
-        19 main procedures to Select, Insert, Update and Delete in any table
+        19 main procedures to Select, Insert, Update and Delete in any table<br />
 o	Exam Procedures <br /> 
         3  procedures
         o	Exam generation: to create Exam with unique exam code for each student
