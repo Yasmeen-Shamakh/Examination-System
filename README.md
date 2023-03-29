@@ -23,6 +23,8 @@ It also helps instructor to upload the questions and answers in the database, th
     by Python Faker Library, SSIS and RedGate
 
 •	Stored Procedures <br />
+•	Desktop
+•	Desktop Application
 o	Main Procedures <br />
 
 o	Exam Procedures <br />
