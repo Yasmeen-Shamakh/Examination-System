@@ -23,13 +23,13 @@ It also helps instructor to upload the questions and answers in the database, th
   &nbsp; &nbsp;    by Python Faker Library, SSIS and RedGate <br />
 
 •	Stored Procedures <br />
-    o	Main Procedures <br />
+    o	Main Procedures: <br />
             19 main procedures to Select, Insert, Update and Delete in any table<br />
 
-    oExam Procedures <br /> 
-      oExam generation: to create Exam with unique exam code for each student <br />
-      oExam Answers: to submit student's answer <br />
-      oExam Correction: to combare student's answer with correct answer, then calculate the total degree <br />
+oExam Procedures: <br /> 
+-Exam generation: to create Exam with unique exam code for each student <br />
+-Exam Answers: to submit student's answer <br />
+-Exam Correction: to combare student's answer with correct answer, then calculate the total degree <br />
 
 •	Reports <br />
 
