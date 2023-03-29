@@ -3,7 +3,7 @@ Examination System is designed and developed for students and instructor. The sy
 It also helps instructor to upload the questions and answers in the database, they can see the students who fail or pass the exam.
 
 ## Tools
-•Online Website "draw.io" (ER Diagram, Mapping) <br />
+• Online Website "draw.io" (ER Diagram, Mapping) <br />
 •	SQL Server Management Studio <br />
 •	Redgate, SSIS (Filling data) <br />
 •	SSRS (Reports) <br />
@@ -25,11 +25,11 @@ It also helps instructor to upload the questions and answers in the database, th
 •	Stored Procedures <br />
 o	Main Procedures <br />
         19 main procedures to Select, Insert, Update and Delete in any table<br />
+        
 o	Exam Procedures <br /> 
-        3  procedures
-        o	Exam generation: to create Exam with unique exam code for each student
-        o	Exam Answers: to submit student's answer
-        o	Exam Correction: to combare student's answer with correct answer, then calculate the total degree
+        o	Exam generation: to create Exam with unique exam code for each student <br />
+        o	Exam Answers: to submit student's answer <br />
+        o	Exam Correction: to combare student's answer with correct answer, then calculate the total degree <br />
 
 •	Reports <br />
 
