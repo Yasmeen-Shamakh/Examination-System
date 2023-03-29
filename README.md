@@ -27,9 +27,9 @@ It also helps instructor to upload the questions and answers in the database, th
             19 main procedures to Select, Insert, Update and Delete in any table<br />
 
     oExam Procedures <br /> 
-            oExam generation: to create Exam with unique exam code for each student <br />
-            oExam Answers: to submit student's answer <br />
-            oExam Correction: to combare student's answer with correct answer, then calculate the total degree <br />
+      oExam generation: to create Exam with unique exam code for each student <br />
+      oExam Answers: to submit student's answer <br />
+      oExam Correction: to combare student's answer with correct answer, then calculate the total degree <br />
 
 •	Reports <br />
 
