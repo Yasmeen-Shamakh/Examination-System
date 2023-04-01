@@ -1,6 +1,6 @@
 # Examination-System (ITI Graduation Project)
 Examination System is designed and developed for students and instructor. The system helps students to perform online exam and know their evaluations.<br /> 
-It also helps instructor to upload the questions and answers in the database, they can see the students who fail or pass the exam.
+It also enable instructor to upload the questions and answers in the database, they can see the students who fail or pass the exam.
 
 ## Tools
 •   Online Website "draw.io" (ER Diagram, Mapping) <br />
@@ -24,7 +24,7 @@ It also helps instructor to upload the questions and answers in the database, th
 
 •	Stored Procedures <br />
     o	Main Procedures:- <br />
-            19 main procedures to Select, Insert, Update and Delete in any table<br />
+            19 procedures to Select, Insert, Update and Delete in any table<br />
             
 o	Exam Procedures:- <br />
 -Exam generation: to create Exam with unique exam code for each student <br />
@@ -34,3 +34,4 @@ o	Exam Procedures:- <br />
 •	Reports <br />
 
 •	Dashboard <br />
+Interact with the dashboard on NovyPro:https://www.novypro.com/project/examinatio-system
