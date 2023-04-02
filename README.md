@@ -34,4 +34,4 @@ o	Exam Procedures:- <br />
 •	Reports <br />
 
 •	Dashboard <br />
-Interact with the dashboard on NovyPro:https://www.novypro.com/project/examinatio-system
+      Interact with the dashboard on [NovyPro](https://www.novypro.com/project/examinatio-system)
